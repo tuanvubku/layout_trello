@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+/*
+  change css default Card component
+*/
+  div.MuiCardContent-root-29:last-child {
+    padding-bottom: 2px ;
+  }
+
+  div.MuiCardContent-root-29 {
+    padding: 6px 8px 2px;
+  }
